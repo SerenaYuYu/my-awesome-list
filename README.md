@@ -1,25 +1,69 @@
 # My Awesome List
 
-A consolidated collection of awesome lists covering various topics in technology and development.
+🌟 A consolidated collection of awesome lists covering various topics in technology and development.
+
+**What makes this special:**
+- ✓ **Live tracking** of original repositories  
+- ✓ **Curated selections** with custom additions  
+- ✓ **Full attribution** to original authors  
+- ✓ **Automated sync** to keep current with originals  
+- ✓ **Transparent sources** visible in metadata  
+
+📖 **Quick Links**: [Using & Syncing](./SYNC_GUIDE.md) • [Adding Custom Content](./CUSTOMIZATION.md) • [All Sources](./SOURCES.json)
+
+## 🚀 Quick Start
+
+### View Collections
+
+Browse any of the 14 topic collections in the table below. Each contains curated resources with attribution to the original awesome list.
+
+### Keep in Sync
+
+```bash
+# Check for upstream updates
+python sync_sources.py check
+
+# Sync all collections with originals
+python sync_sources.py sync
+
+# Get detailed report
+python sync_sources.py report
+```
+
+See [SYNC_GUIDE.md](./SYNC_GUIDE.md) for detailed instructions.
+
+### Add Custom Content
+
+Mark your additions clearly to protect them during sync operations:
+
+```markdown
+## 🎯 Custom Additions (This Fork)
+
+- [Your Project](url) - Your description
+
+[See CUSTOMIZATION.md for detailed guide]
+```
+
+See [CUSTOMIZATION.md](./CUSTOMIZATION.md) for best practices.
 
 ## 📚 Collections
 
-| Category | Description |
-|----------|-------------|
-| [Bots](./awesome-bots/) | Awesome Bots - A curated list of awesome bots |
-| [Compose](./awesome-compose/) | Awesome Compose - Docker Compose examples and resources |
-| [Courses](./awesome-courses/) | Awesome CS Courses - Computer science courses and learning resources |
-| [C++](./awesome-cpp/) | Awesome C++ - C++ frameworks, libraries, and resources |
-| [Design Tools](./awesome-design-tools/) | Awesome Design Tools - Design tools and software |
-| [Flutter](./awesome-flutter/) | Awesome Flutter - Flutter framework resources |
-| [For Beginners](./awesome-for-beginners/) | Awesome For Beginners - Projects suitable for first-time contributors |
-| [Interview Questions](./awesome-interview-questions/) | Awesome Interview Questions - Interview preparation resources |
-| [Node.js](./awesome-nodejs/) | Awesome Node.js - Node.js frameworks, libraries, and tools |
-| [Python](./awesome-python/) | Awesome Python - Python frameworks, libraries, and resources |
-| [React](./awesome-react/) | Awesome React - React frameworks and tools |
-| [React Components](./awesome-react-components/) | Awesome React Components - Reusable React components |
-| [Rust](./awesome-rust/) | Awesome Rust - Rust crates and resources |
-| [Scalability](./awesome-scalability/) | Awesome Scalability - Scalability resources and references |
+| Collection | Original Author | Status |
+|---|---|---|
+| [Bots](./awesome-bots/) | [@itsthekids](https://github.com/itsthekids) | ✓ Tracking |
+| [Compose](./awesome-compose/) | [@docker](https://github.com/docker) | ✓ Tracking |
+| [Courses](./awesome-courses/) | [@prakhar1989](https://github.com/prakhar1989) | ✓ Tracking |
+| [C++](./awesome-cpp/) | [@fffaraz](https://github.com/fffaraz) | ✓ Tracking |
+| [Design Tools](./awesome-design-tools/) | [@goabstract](https://github.com/goabstract) | ✓ Tracking |
+| [Flutter](./awesome-flutter/) | [@Solido](https://github.com/Solido) | ✓ Tracking |
+| [For Beginners](./awesome-for-beginners/) | [@MunGell](https://github.com/MunGell) | ✓ Tracking |
+| [Interview Questions](./awesome-interview-questions/) | [@DopplerHQ](https://github.com/DopplerHQ) | ✓ Tracking |
+| [Node.js](./awesome-nodejs/) | [@sindresorhus](https://github.com/sindresorhus) | ✓ Tracking |
+| [Python](./awesome-python/) | [@vinta](https://github.com/vinta) | ✓ Tracking |
+| [React](./awesome-react/) | [@enaqx](https://github.com/enaqx) | ✓ Tracking |
+| [React Components](./awesome-react-components/) | [@brillout](https://github.com/brillout) | ✓ Tracking |
+| [Rust](./awesome-rust/) | [@rust-unofficial](https://github.com/rust-unofficial) | ✓ Tracking |
+| [Scalability](./awesome-scalability/) | [@binhnguyennus](https://github.com/binhnguyennus) | ✓ Tracking |
 
 ## 🎯 Quick Links
 
