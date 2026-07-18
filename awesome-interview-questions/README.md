@@ -663,3 +663,39 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @DopplerHQ  
+**Original Repository**: [https://github.com/DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/DopplerHQ/awesome-interview-questions)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/DopplerHQ/awesome-interview-questions
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

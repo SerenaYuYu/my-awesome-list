@@ -974,3 +974,39 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## A Piece of Cake
 Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @binhnguyennus  
+**Original Repository**: [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/binhnguyennus/awesome-scalability)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/binhnguyennus/awesome-scalability
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

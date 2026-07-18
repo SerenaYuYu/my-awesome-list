@@ -119,3 +119,39 @@ In addition to all the ready to run Compose samples listed above the folder [off
 
 We welcome examples that help people understand how to use Docker Compose for
 common applications. Check the [Contribution Guide](CONTRIBUTING.md) for more details. 
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @docker  
+**Original Repository**: [https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/docker/awesome-compose)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/docker/awesome-compose
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

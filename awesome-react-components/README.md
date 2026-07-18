@@ -1085,3 +1085,39 @@ _Internationalization / L10n / localization / translation_
 - [BCMS](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 - [crisp-bigquery](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
 - [react-server-routing-example](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @brillout  
+**Original Repository**: [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/brillout/awesome-react-components)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/brillout/awesome-react-components
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

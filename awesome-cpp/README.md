@@ -1747,3 +1747,39 @@ Please take a quick gander at the [contribution guidelines](https://github.com/f
 Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @fffaraz  
+**Original Repository**: [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/fffaraz/awesome-cpp)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/fffaraz/awesome-cpp
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

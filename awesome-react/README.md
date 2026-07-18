@@ -260,3 +260,39 @@ A collection of awesome things regarding the React ecosystem.
 This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @enaqx  
+**Original Repository**: [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/enaqx/awesome-react)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/enaqx/awesome-react
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

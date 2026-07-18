@@ -1,0 +1,144 @@
+{
+  "collections": [
+    {
+      "id": "bots",
+      "folder": "awesome-bots",
+      "title": "Awesome Bots",
+      "original_author": "itsthekids",
+      "original_url": "https://github.com/itsthekids/awesome-bots",
+      "description": "A curated list of awesome bots",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "compose",
+      "folder": "awesome-compose",
+      "title": "Awesome Compose",
+      "original_author": "docker",
+      "original_url": "https://github.com/docker/awesome-compose",
+      "description": "Docker Compose examples and resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "courses",
+      "folder": "awesome-courses",
+      "title": "Awesome CS Courses",
+      "original_author": "prakhar1989",
+      "original_url": "https://github.com/prakhar1989/awesome-courses",
+      "description": "Computer science courses and learning resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "cpp",
+      "folder": "awesome-cpp",
+      "title": "Awesome C++",
+      "original_author": "fffaraz",
+      "original_url": "https://github.com/fffaraz/awesome-cpp",
+      "description": "C++ frameworks, libraries, and resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "design-tools",
+      "folder": "awesome-design-tools",
+      "title": "Awesome Design Tools",
+      "original_author": "goabstract",
+      "original_url": "https://github.com/goabstract/awesome-design-tools",
+      "description": "Design tools and software",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "flutter",
+      "folder": "awesome-flutter",
+      "title": "Awesome Flutter",
+      "original_author": "Solido",
+      "original_url": "https://github.com/Solido/awesome-flutter",
+      "description": "Flutter framework resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "for-beginners",
+      "folder": "awesome-for-beginners",
+      "title": "Awesome For Beginners",
+      "original_author": "MunGell",
+      "original_url": "https://github.com/MunGell/awesome-for-beginners",
+      "description": "Projects suitable for first-time contributors",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "interview-questions",
+      "folder": "awesome-interview-questions",
+      "title": "Awesome Interview Questions",
+      "original_author": "DopplerHQ",
+      "original_url": "https://github.com/DopplerHQ/awesome-interview-questions",
+      "description": "Interview preparation resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "nodejs",
+      "folder": "awesome-nodejs",
+      "title": "Awesome Node.js",
+      "original_author": "sindresorhus",
+      "original_url": "https://github.com/sindresorhus/awesome-nodejs",
+      "description": "Node.js frameworks, libraries, and tools",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "python",
+      "folder": "awesome-python",
+      "title": "Awesome Python",
+      "original_author": "vinta",
+      "original_url": "https://github.com/vinta/awesome-python",
+      "description": "Python frameworks, libraries, and resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "react",
+      "folder": "awesome-react",
+      "title": "Awesome React",
+      "original_author": "enaqx",
+      "original_url": "https://github.com/enaqx/awesome-react",
+      "description": "React frameworks and tools",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "react-components",
+      "folder": "awesome-react-components",
+      "title": "Awesome React Components",
+      "original_author": "brillout",
+      "original_url": "https://github.com/brillout/awesome-react-components",
+      "description": "Reusable React components",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "rust",
+      "folder": "awesome-rust",
+      "title": "Awesome Rust",
+      "original_author": "rust-unofficial",
+      "original_url": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "Rust crates and resources",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    },
+    {
+      "id": "scalability",
+      "folder": "awesome-scalability",
+      "title": "Awesome Scalability",
+      "original_author": "binhnguyennus",
+      "original_url": "https://github.com/binhnguyennus/awesome-scalability",
+      "description": "Scalability resources and references",
+      "last_sync": "2026-07-18",
+      "tracking_enabled": true
+    }
+  ]
+}

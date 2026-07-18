@@ -1029,3 +1029,39 @@ and anti-analysis techniques.
 	- Interpret your model and communicate what it implies.
 - [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 - [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @prakhar1989  
+**Original Repository**: [https://github.com/prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/prakhar1989/awesome-courses)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/prakhar1989/awesome-courses
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

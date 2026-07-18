@@ -1234,3 +1234,39 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 Awesome Design Tools & Plugins is curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tools, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Thanks for making this project awesome :)
 
 </article>
+
+---
+
+## 📚 Source Information
+
+**Original Author(s)**: @goabstract  
+**Original Repository**: [https://github.com/goabstract/awesome-design-tools](https://github.com/goabstract/awesome-design-tools)  
+**Fork Type**: Curated (part of [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list))  
+**License**: See original repository for license details
+
+### About This Fork
+
+This is a curated collection maintained as part of **My Awesome List**. The original awesome list is maintained by the original author(s) above. This fork:
+
+- ✅ **Preserves all original content** and attributes
+- ✅ **Maintains a link** to the original repository
+- ✅ **Can be synced** with upstream changes
+- ✅ **Allows custom additions** in the context of the aggregation
+
+### Contributing
+
+- **To the original project**: Please submit PRs to [the original repository](https://github.com/goabstract/awesome-design-tools)
+- **To this curated collection**: Submit changes to [My Awesome List](https://github.com/SerenaYuYu/my-awesome-list)
+
+### How to Keep in Sync
+
+To fetch the latest updates from the original repository:
+
+```bash
+# In this repository
+git remote add upstream https://github.com/goabstract/awesome-design-tools
+git fetch upstream
+git merge upstream/main  # or the appropriate branch
+```
+
+Last synced: 2026-07-18

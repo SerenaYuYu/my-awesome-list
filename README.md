@@ -27,10 +27,52 @@ A consolidated collection of awesome lists covering various topics in technology
 - Each collection contains a comprehensive list of resources in its category
 - Original repositories maintain their own content and contribute guidelines
 
+## 🔄 Open Source Tracking
+
+This project maintains live links to all original awesome repositories. Each collection:
+- **Preserves attribution** to original authors
+- **Tracks upstream changes** via SOURCES.json
+- **Supports customization** while maintaining sync capability
+
+### Original Sources
+
+See [SOURCES.json](./SOURCES.json) for complete source tracking information including:
+- Original author and repository URLs
+- Last sync timestamp
+- Tracking status for each collection
+
+## 🎯 Customization Guide
+
+This is a curated fork model. You can:
+
+1. **Keep synchronized**: Pull updates from original repositories
+2. **Add custom entries**: Extend collections with your own picks
+3. **Maintain attribution**: Always link back to original sources
+4. **Sync workflow**: Use the sync script to update from upstream
+
+### How to Sync with Originals
+
+```bash
+# View all configured sources
+cat SOURCES.json
+
+# Manual sync (fetch from original source)
+git remote add upstream [original-url]
+git fetch upstream
+git merge upstream/main  # or appropriate branch
+```
+
 ## 📝 Contributing
 
 Each sub-collection follows its own contribution guidelines. Refer to the individual README files for specific submission requirements.
 
+For this consolidated project:
+- **Original content changes**: Submit to original repositories
+- **Customizations**: Make pull requests to this repository
+- **New entries**: Follow guidelines in individual collection READMEs
+
 ---
 
-**Last Updated**: 2026-07-18
+**Project Type**: Curated Fork (Open Source Aggregation)  
+**Last Updated**: 2026-07-18  
+**Sync Status**: ✓ Active tracking enabled
